@@ -286,6 +286,7 @@ Each history entry includes:
 
 ## Future Enhancements
 
+- Register Flow
 - User management UI
 - Work item assignments
 - Comments/notes on work items
